@@ -1,0 +1,20 @@
+{
+  "name": "docs-site",
+  "description": "Free Home Resource Planning Documents Site",
+  "keywords": [
+    "freehomerp",
+    "docs-site"
+  ],
+  "scripts": {
+    "build": "antora --fetch antora-playbook.yaml",
+    "build:local": "antora antora-playbook-local.yaml"
+  },
+  "author": "Alejandro Alonso Mayo <alejandroalonsomayo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@antora/cli": "~3.1.7",
+    "@antora/site-generator": "3.1",
+    "asciidoctor-kroki": "^0.18.1"
+  },
+  "packageManager": "pnpm@9.6.0"
+}

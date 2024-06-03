@@ -1,0 +1,16 @@
+site:
+  title: FreeHomeRP Product Documentation
+  start_page: freehomerp::index.adoc
+content:
+  sources:
+    - url: ../freehomerp
+      start_path: docs
+      branches: HEAD
+ui:
+  bundle:
+    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
+    snapshot: true
+  supplemental_files: ./src/ui
+asciidoc:
+  extensions:
+    - asciidoctor-kroki
