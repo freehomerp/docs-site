@@ -1,0 +1,15 @@
+{
+  "name": "docs-site",
+  "description": "Free Home Resource Planning Documents Site",
+  "scripts": {},
+  "keywords": [
+    "freehomerp",
+    "docs-site"
+  ],
+  "author": "Alejandro Alonso Mayo <alejandroalonsomayo@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@antora/cli": "~3.1.7",
+    "@antora/site-generator": "3.1"
+  }
+}
