@@ -1,0 +1,13 @@
+= FreeHomeRP - Docs Site
+
+Welcome to the FreeHomeRP project! This project is a tool designed to assist you in efficiently managing various aspects of your home, including finances, shopping lists, tasks, and more. With our user-friendly interface and powerful features and tools, you can easily stay organized and streamline your home management responsibilities.
+
+In this repository you can find the product documentation site generation scripts of the project.
+
+== License
+
+This project is under https://github.com/freehomerp/docs-site/blob/main/LICENSE[MIT License].
+
+== Authors
+
+- Alejandro Alonso Mayo - https://github.com/AlejandroAM91[github] - mailto:alejandroalonsomayo@gmail.com[mail]
